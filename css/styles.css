@@ -1,0 +1,103 @@
+.center-text {
+    text-align: center;
+    
+  }
+
+    .color{
+      
+      margin: 15px;
+      padding: 50px;
+      color: white;
+      border-radius: 10px;
+      background-color: rgb(59 46 181);
+      box-shadow: 10px 10px 5px #afafaf;
+      
+    }
+
+    .ppt{
+      
+      margin: 15px;
+      margin-bottom: 49px;
+      padding: 15px;
+      padding-bottom: 50px; 
+     
+      border-radius: 10px;
+     
+      box-shadow: 10px 10px 5px #afafaf;
+      
+    }
+
+    .color img{
+      background-color: rgb(15, 83, 61);
+      margin: 0px;
+      width: 100px;
+      height:100px;
+      color: white;
+      border-radius: 10px;
+      background-color: rgb(59 46 181);
+      
+      
+    }
+
+    .color:hover {
+
+      background-color: rgb(255, 255, 255);
+      margin: 15px;
+      color: rgb(64 51 193);
+      border-radius: 10px;
+      border: 2px solid rgb(59, 46, 181);
+      
+      box-shadow: 10px 10px 5px #f3f3f3;
+
+    }
+
+
+    col color a {
+      color: #ffffff;
+      text-decoration: none;
+      background-color: transparent;
+  }
+ 
+
+  .syllabus {
+
+color: rgb(0, 0, 121);
+
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid rgb(59, 46, 181);
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid rgb(59, 46, 181);
+}
+th {
+    background-color: #f2f2f2;
+}
+.demo-performance {
+    font-style: italic;
+    color: #555;
+}
+
+
+.photoshop_content{
+
+  margin-top: 55px;
+
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: transparent; 
+}
+
+.heading-color h1{
+
+  color:purple;
+
+}
