@@ -1,3 +1,29 @@
+@media (max-width: 480px) {
+  body {
+      font-size: 12px !important;
+  }
+
+  h1 {
+      font-size: 16px !important;
+  }
+  h2 {
+    font-size: 14px !important;
+}
+
+  h3 {
+      font-size: 16px !important;
+  }
+
+  table {
+      font-size: 10px  !important; 
+  }
+
+  th, td {
+      padding: 5px;
+  }
+}
+
+
 .center-text {
   text-align: center;
 }
