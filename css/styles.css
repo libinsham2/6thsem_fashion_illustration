@@ -24,6 +24,20 @@
 }
 
 
+.iframe-container {
+  width: 100%;
+  height: 90%; /* 90% of the viewport height */
+  overflow: hidden;
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+
+
 .center-text {
   text-align: center;
 }
