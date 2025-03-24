@@ -60,7 +60,7 @@ iframe {
   padding: 50px;
   color: white;
   border-radius: 10px;
-  background-color: #fdff43;
+  background-color: #5be0ff;
   box-shadow: 10px 10px 5px #afafaf;
 }
 
@@ -88,7 +88,7 @@ iframe {
   height: 100px;
   color: white;
   border-radius: 10px;
-  background-color: rgb(59, 46, 181);
+  background-color: rgb(0, 207, 255);
 }
 
 .colorblack img {
@@ -97,7 +97,7 @@ iframe {
   height: 100px;
   color: black;
   border-radius: 10px;
-  background-color: rgb(243, 210, 47);
+  background-color: rgb(0, 207, 255);
 }
 
 .colorblack:hover {
@@ -163,4 +163,50 @@ a {
 
 .heading-color h1 {
   color: purple;
+}
+
+
+.shapeboxes{
+  width: 100px;  /* Define a fixed width */
+  height: 100px; /* Define a fixed height */
+  padding: 10px; /* Optional padding */
+  color: white; /* Make text visible */
+  border-radius: 50%; /* Ensures circular shape */
+  background-color: rgba(0, 0, 0, 0); /* Background color */
+  margin:10px;
+  align-items: center;
+  text-align: center;
+
+}
+
+.shapeboxes img{
+
+width: 75px;
+height: 75px;
+border-radius: 50%;
+
+
+}
+
+.shapeimg img{
+
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  border: 5px solid red; 
+  
+  }
+
+.shape{
+
+
+  display: flex; /* Helps center text */
+  justify-content: center;
+  margin: 5px;
+}
+
+.navbar{
+
+background-color: rgb(62, 161, 253) !important ;
+
 }
