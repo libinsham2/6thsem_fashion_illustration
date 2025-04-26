@@ -209,4 +209,19 @@ border-radius: 50%;
 
 background-color: rgb(62, 161, 253) !important ;
 
+<<<<<<< HEAD
 }
+=======
+}
+
+
+.coral img{
+
+border: 5px solid rgb(236, 4, 43);
+box-shadow: 5px 10px 5px grey;
+width: 90px;
+height: 90px;
+
+}
+
+>>>>>>> a4e5b91 (new april 26)
